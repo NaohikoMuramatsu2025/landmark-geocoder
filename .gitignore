@@ -1,0 +1,12 @@
+# OS・IDEによる一時ファイル
+.DS_Store
+Thumbs.db
+
+# 開発関連
+node_modules/
+dist/
+*.log
+*.zip
+
+# VSCode用設定
+.vscode/
