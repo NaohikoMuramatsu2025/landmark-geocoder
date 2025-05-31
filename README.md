@@ -35,8 +35,6 @@ landmark-geocoder/
 
 ## 📝 ライセンス
 
-## 📝 ライセンス
-
 このプロジェクトは [MIT License](LICENSE) のもとで公開されています。
 
 ## 🙌 貢献・改善歓迎！
