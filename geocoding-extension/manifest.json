@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "ランドマーク位置取得ツール",
+  "version": "1.0",
+  "description": "ランドマーク名から緯度経度を取得してGoogleマップで表示",
+  "permissions": [
+    "clipboardRead",
+    "clipboardWrite",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://www.geocoding.jp/api/*"
+  ]
+}
