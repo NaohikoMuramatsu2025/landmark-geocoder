@@ -40,3 +40,19 @@ landmark-geocoder/
 ## 🙌 貢献・改善歓迎！
 
 Pull Request や Issue はいつでも歓迎します。
+
+---
+
+## 🔽 Chrome拡張のダウンロード（アクセス権を持つ方限定）
+
+この拡張機能は下記のZIPファイルを解凍して利用できます。
+
+👉 [geocoding-extension.zip](https://github.com/NaohikoMuramatsu2025/landmark-geocoder/blob/main/geocoding-extension.zip)
+
+### 🧭 インストール方法
+
+1. ZIPを解凍
+2. Chromeで `chrome://extensions/` を開く
+3. 「デベロッパーモード」をONにする
+4. 「パッケージ化されていない拡張機能を読み込む」で解凍フォルダを選択
+
